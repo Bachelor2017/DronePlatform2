@@ -1,2 +1,4 @@
 *.class
 *.TXT
+*.properties
+*.jar
