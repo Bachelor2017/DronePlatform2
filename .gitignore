@@ -1,0 +1,4 @@
+*.xml
+*.mf
+nbproject/genfiles.properties
+*.properties
