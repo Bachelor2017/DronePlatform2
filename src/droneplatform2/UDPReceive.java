@@ -1,6 +1,6 @@
 package droneplatform2;
 
-import droneplatform.DataHandler;
+import droneplatform2.DataHandler;
 import java.util.concurrent.Semaphore;
 import java.util.logging.Level;
 import java.util.logging.Logger;

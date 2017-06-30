@@ -2,3 +2,4 @@
 *.mf
 nbproject/genfiles.properties
 *.properties
+/build/
