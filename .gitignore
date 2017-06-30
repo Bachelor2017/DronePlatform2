@@ -1,6 +1,2 @@
-*.xml
-*.mf
-nbproject/genfiles.properties
-*.properties
-/build/
-/dist/
+*.class
+*.TXT
