@@ -3,3 +3,4 @@
 nbproject/genfiles.properties
 *.properties
 /build/
+/dist/
